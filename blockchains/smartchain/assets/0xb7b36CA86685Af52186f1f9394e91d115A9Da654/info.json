@@ -1,11 +1,11 @@
 {
-    "name": "HAMSTER",
-    "website": "https://www.hamsterfinance.com/",
-    "description": "Hamster is MemeToken",
-    "explorer": "https://bscscan.com/token/0xb7b36CA86685Af52186f1f9394e91d115A9Da654",
+    "name": "HONEYPOT Hamster",
     "type": "BEP20",
-    "symbol": "HAM",
+    "symbol": "HONEYPOT HAM",
     "decimals": 18,
-    "status": "active",
+    "description": "This token is malicious do not interact",
+    "website": "https://bscscan.com/address/0xb7b36CA86685Af52186f1f9394e91d115A9Da654",
+    "explorer": "https://bscscan.com/address/0xb7b36CA86685Af52186f1f9394e91d115A9Da654",
+    "status": "spam",
     "id": "0xb7b36CA86685Af52186f1f9394e91d115A9Da654"
 }
